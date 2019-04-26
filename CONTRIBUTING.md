@@ -80,3 +80,5 @@ To build of the materials do the following:
 1. Run `script/server`
     - When successful, the script will initiate a local server at `http://127.0.0.1:4000/`.
 1. Simply paste that into your favorite web-browser and you will be ready to test
+
+test sofia modif 
